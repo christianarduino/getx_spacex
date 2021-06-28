@@ -15,7 +15,7 @@ The purpose is to search the SpaceX missions done by calling the GraphQL query "
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/christianarduino/getx_spacex.git
 ```
 
 **Step 2:**
